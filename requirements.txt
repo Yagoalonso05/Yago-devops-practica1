@@ -1,0 +1,6 @@
+# Si tu programa NO necesita librerías especiales, deja esto:
+# (solo este comentario, o el archivo vacío)
+
+# Si necesitas librerías, escribe:
+# requests==2.32.3
+# numpy==1.24.0
